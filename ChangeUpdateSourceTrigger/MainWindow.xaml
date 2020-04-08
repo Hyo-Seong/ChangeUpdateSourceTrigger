@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ChangeUpdateSourceTrigger"
         xmlns:c="clr-namespace:ChangeUpdateSourceTrigger.Converter"
         mc:Ignorable="d"
-        Title="ChangeUpdateSourceTrigger" Height="300" Width="300">
+        Title="ChangeUpdateSourceTrigger" Height="300" Width="400">
     <Window.Resources>
         <c:OverTenToColorConverter x:Key="OverTenToColorConverter"/>
     </Window.Resources>
